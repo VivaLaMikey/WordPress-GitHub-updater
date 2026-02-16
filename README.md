@@ -1,0 +1,1 @@
+This wordpress plugin automatically pulls the a wp-content file from the desired github repo and updates it on the file system. This is a powerful tool that auto-update the content file from the github repo.
